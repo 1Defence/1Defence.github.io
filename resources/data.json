@@ -1,0 +1,12 @@
+[
+  {
+    "bossSpawnFormId": 319,
+    "bossName": "Corporeal Beast",
+    "ehb": 60
+  },
+  {
+    "bossSpawnFormId": 456,
+    "bossName": "General Graardor",
+    "ehb": 58
+  }
+]
