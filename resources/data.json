@@ -8,5 +8,15 @@
     "bossSpawnFormId": 2215,
     "bossName": "General Graardor",
     "ehb": 58
+  },
+  {
+    "bossSpawnFormId": 3285,
+    "bossName": "Test1",
+    "ehb": 50
+  },
+  {
+    "bossSpawnFormId": 5238,
+    "bossName": "Test2",
+    "ehb": 700
   }
 ]
