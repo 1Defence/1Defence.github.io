@@ -10,9 +10,59 @@
     "ehb": 58
   },
   {
-    "bossSpawnFormId": 3285,
-    "bossName": "Test1",
-    "ehb": 50
+    "bossSpawnFormId": 3129,
+    "bossName": "Kril Tsutsaroth",
+    "ehb": 65
+  },
+  {
+    "bossSpawnFormId": 3162,
+    "bossName": "Kree Arra",
+    "ehb": 40
+  },
+  {
+    "bossSpawnFormId": 2205,
+    "bossName": "Commander Zilyana",
+    "ehb": 60
+  },
+  {
+    "bossSpawnFormId": 8713,
+    "bossName": "Sarachnis",
+    "ehb": 80
+  },
+  {
+    "bossSpawnFormId": 6615,
+    "bossName": "Scorpia",
+    "ehb": 130
+  },
+  {
+    "bossSpawnFormId": 5779,
+    "bossName": "Giant Mole",
+    "ehb": 125
+  },
+  {
+    "bossSpawnFormId": 239,
+    "bossName": "King Black Dragon",
+    "ehb": 130
+  },
+  {
+    "bossSpawnFormId": 2054,
+    "bossName": "Chaos Elemental",
+    "ehb": 120
+  },
+  {
+    "bossSpawnFormId": 963,
+    "bossName": "Kalphite Queen",
+    "ehb": 55
+  },
+  {
+    "bossSpawnFormId": 5862,
+    "bossName": "Cerberus",
+    "ehb": 65
+  },
+  {
+   "bossSpawnFormId": 3285,
+   "bossName": "Test1",
+   "ehb": 50
   },
   {
     "bossSpawnFormId": 5238,
