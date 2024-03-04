@@ -60,6 +60,26 @@
     "ehb": 65
   },
   {
+    "bossSpawnFormId": 5886,
+    "bossName": "Abyssal Sire",
+    "ehb": 45
+  },
+  {
+    "bossSpawnFormId": 499,
+    "bossName": "Thermonuclear Smoke Devil",
+    "ehb": 150
+  },
+  {
+    "bossSpawnFormId": 496,
+    "bossName": "Kraken",
+    "ehb": 100
+  },
+  {
+    "bossSpawnFormId": 496,
+    "bossName": "Scurrius",
+    "ehb": 85
+  },
+  {
    "bossSpawnFormId": 3285,
    "bossName": "Test1",
    "ehb": 50
