@@ -80,13 +80,18 @@
     "ehb": 85
   },
   {
-   "bossSpawnFormId": 3285,
-   "bossName": "Test1",
-   "ehb": 50
+    "bossSpawnFormId": 2265,
+    "bossName": "Dagannoth Supreme",
+    "ehb": 105
   },
   {
-    "bossSpawnFormId": 5238,
-    "bossName": "Test2",
-    "ehb": 5
+    "bossSpawnFormId": 2266,
+    "bossName": "Dagannoth Prime",
+    "ehb": 105
+  },
+  {
+    "bossSpawnFormId": 2267,
+    "bossName": "Dagannoth Rex",
+    "ehb": 105
   }
 ]
