@@ -1,0 +1,12 @@
+[
+  {
+    "spawnFormId": 319,
+    "finalFormId": 319,
+    "validPartners": [],
+    "shortName": "Corp",
+    "fullName": "Corporeal Beast",
+    "spawnSeconds": 30.0,
+    "deathAnimationId": 1676,
+    "ehb": 60.0
+  }
+]
