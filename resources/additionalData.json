@@ -1,12 +1,12 @@
 [
   {
-    "spawnFormId": 111111,
-    "finalFormId": 111111,
+    "spawnFormId": -1,
+    "finalFormId": -1,
     "validPartners": [],
     "shortName": "Valamore Dragon",
     "fullName": "Valamore Dragon (Unreleased)",
     "spawnSeconds": 5.0,
-    "deathAnimationId": 111111,
+    "deathAnimationId": -1,
     "ehb": 150
   }
 ]
