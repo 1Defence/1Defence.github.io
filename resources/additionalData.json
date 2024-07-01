@@ -8,5 +8,15 @@
     "spawnSeconds": 30.0,
     "deathAnimationId": 1676,
     "ehb": 60.0
+  },
+    {
+    "spawnFormId": 5238,
+    "finalFormId": 5238,
+    "validPartners": [],
+    "shortName": "Spider",
+    "fullName": "Spider",
+    "spawnSeconds": 0.6,
+    "deathAnimationId": 6251,
+    "ehb": 900.0
   }
 ]
