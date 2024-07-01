@@ -18,5 +18,35 @@
     "spawnSeconds": 0.6,
     "deathAnimationId": 6251,
     "ehb": 900.0
+  },
+    {
+    "spawnFormId": 3285,
+    "finalFormId": 3285,
+    "validPartners": [3284,2855],
+    "shortName": "Anja",
+    "fullName": "Anja",
+    "spawnSeconds": 14.4,
+    "deathAnimationId": 836,
+    "ehb": 200.0
+  },
+    {
+    "spawnFormId": 3284,
+    "finalFormId": 3284,
+    "validPartners": [3285,2855],
+    "shortName": "Hengel",
+    "fullName": "Hengel",
+    "spawnSeconds": 14.4,
+    "deathAnimationId": 836,
+    "ehb": 200.0
+  },
+    {
+    "spawnFormId": 2855,
+    "finalFormId": 2855,
+    "validPartners": [3284,3285],
+    "shortName": "Rat",
+    "fullName": "Rat",
+    "spawnSeconds": 29.4,
+    "deathAnimationId": 2707,
+    "ehb": 100.0
   }
 ]
