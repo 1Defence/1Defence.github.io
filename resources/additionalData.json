@@ -8,5 +8,15 @@
     "spawnSeconds": 5.0,
     "deathAnimationId": -1,
     "ehb": 150
+  },
+  {
+    "spawnFormId": 6609,
+    "finalFormId": 6609,
+    "validPartners": [],
+    "shortName": "Callisto",
+    "fullName": "Callisto",
+    "spawnSeconds": 6.6,
+    "deathAnimationId": 10017,
+    "ehb": 85
   }
 ]
