@@ -18,5 +18,15 @@
     "spawnSeconds": 6.6,
     "deathAnimationId": 10017,
     "ehb": 85
+  },
+    {
+    "spawnFormId": 13668,
+    "finalFormId": 13668,
+    "validPartners": [],
+    "shortName": "Araxxor",
+    "fullName": "Araxxor",
+    "spawnSeconds": 6.6,
+    "deathAnimationId": 11481,
+    "ehb": 40
   }
 ]
