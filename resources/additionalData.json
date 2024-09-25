@@ -28,5 +28,15 @@
     "spawnSeconds": 6.6,
     "deathAnimationId": 11486,
     "ehb": 40
+  },
+    {
+    "spawnFormId": 13685,
+    "finalFormId": 13685,
+    "validPartners": [],
+    "shortName": "Amoxliatl",
+    "fullName": "Amoxliatl",
+    "spawnSeconds": 6.6,
+    "deathAnimationId": 11532,
+    "ehb": 60
   }
 ]
