@@ -1,13 +1,13 @@
 [
   {
-    "spawnFormId": -1,
-    "finalFormId": -1,
+    "spawnFormId": 14017,
+    "finalFormId": 14012,
     "validPartners": [],
-    "shortName": "Valamore Dragon",
-    "fullName": "Valamore Dragon (Unreleased)",
-    "spawnSeconds": 5.0,
-    "deathAnimationId": -1,
-    "ehb": 150
+    "shortName": "Huey",
+    "fullName": "The Hueycoatl",
+    "spawnSeconds": 30.0,
+    "deathAnimationId": 11679,
+    "ehb": 40
   },
   {
     "spawnFormId": 6609,
