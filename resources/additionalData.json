@@ -6,7 +6,7 @@
     "shortName": "Huey",
     "fullName": "The Hueycoatl",
     "spawnSeconds": 30.0,
-    "deathAnimationId": 11679,
+    "deathAnimationId": -1,
     "ehb": 40
   },
   {
