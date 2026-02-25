@@ -49,4 +49,15 @@
     "deathAnimationId": 12557,
     "ehb": 90
   }
+],
+    {
+    "spawnFormId": 15626,
+    "finalFormId": 15626,
+    "validPartners": [],
+    "shortName": "Brutus",
+    "fullName": "Brutus",
+    "spawnSeconds": 18.0,
+    "deathAnimationId": 13784,
+    "ehb": 150
+  }
 ]
