@@ -50,6 +50,16 @@
     "ehb": 90
   },
     {
+    "spawnFormId": 12223,
+    "finalFormId": 12223,
+    "validPartners": [],
+    "shortName": "Vardorvis",
+    "fullName": "Vardorvis",
+    "spawnSeconds": 12.0,
+    "deathAnimationId": 10346,
+    "ehb": 100
+  },
+    {
     "spawnFormId": 15626,
     "finalFormId": 15626,
     "validPartners": [],
