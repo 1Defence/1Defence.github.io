@@ -68,5 +68,15 @@
     "spawnSeconds": 18.0,
     "deathAnimationId": 13784,
     "ehb": 150
+  },
+    {
+    "spawnFormId": 15742,
+    "finalFormId": 15742,
+    "validPartners": [],
+    "shortName": "Maggot King",
+    "fullName": "Maggot King",
+    "spawnSeconds": 6.0,
+    "deathAnimationId": 13936,
+    "ehb": 25
   }
 ]
