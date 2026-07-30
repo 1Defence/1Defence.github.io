@@ -78,5 +78,15 @@
     "spawnSeconds": 6.0,
     "deathAnimationId": 13936,
     "ehb": 25
+  },
+    {
+    "spawnFormId": 16306,
+    "finalFormId": 16305,
+    "validPartners": [],
+    "shortName": "Mad Angel",
+    "fullName": "Mad Angel",
+    "spawnSeconds": 6.0,
+    "deathAnimationId": 14448,
+    "ehb": 60
   }
 ]
